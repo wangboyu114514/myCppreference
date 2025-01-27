@@ -1,0 +1,9 @@
+.center{
+    text-align: center;
+}
+
+#text{
+    position:absolute;
+    left:15%;
+    top:auto;
+}
